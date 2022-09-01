@@ -1,0 +1,11 @@
+snapshot
+snapshot_ui
+dataset/*
+!dataset/.gitkeep
+pretrained_model/*
+!pretrained_model/.gitkeep
+**/__pycache__
+**/_ext
+**/*.so
+record.ods
+**/pretrained
