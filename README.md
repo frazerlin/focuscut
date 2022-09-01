@@ -31,7 +31,7 @@ CUDA_VISIBLE_DEVICES=0 python annotator.py -r focuscut-resnet50.pth -ap "backbon
 
 ## Pretrained models
 - focuscut-resnet50  ([GoogleDrive](https://drive.google.com/file/d/1cNt84bF7p8XYVuVudQlVaTgQyJszw_GC/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/14L8AHh4S1bQsxujfNv1xVA?pwd=jjmu) )
-- focuscut-resnet101  ([GoogleDrive](https://drive.google.com/file/d/1tmetXPTWnakghDHhm0uToQUsz2cZIfEL/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/1MIE4YhdEmYLxbJya6HqmPQ?pwd=ebmv )
+- focuscut-resnet101  ([GoogleDrive](https://drive.google.com/file/d/1tmetXPTWnakghDHhm0uToQUsz2cZIfEL/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/1MIE4YhdEmYLxbJya6HqmPQ?pwd=ebmv ) )
 
 
 ## Citation
