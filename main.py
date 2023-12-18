@@ -104,7 +104,7 @@ class Trainer(object):
         for index, val_robot_set in enumerate(self.val_robot_sets):
             dataset=self.p['dataset_vals'][index]
 
-            if dataset=='DAVIS_WJD':
+            if dataset=='DAVIS':
                 self.p['eval_size']=512
                 self.p['hr_size']=512
             else:
